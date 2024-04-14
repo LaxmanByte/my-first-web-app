@@ -1,2 +1,3 @@
 # my-first-web-app
-his project lays the foundation for a Continuous Integration pipeline using Jenkins for a simple web application. The goal is to automate code checkout and streamline the development process, with potential to expand into testing and deployment.
+Purpose:
+This project is a learning exercise to establish a basic Continuous Integration (CI) pipeline using Jenkins.  The codebase is a simple web application. The focus is on automating code checkout from a Git repository.
